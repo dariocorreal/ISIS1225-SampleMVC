@@ -54,6 +54,6 @@ def loadTags(filename):
 
 def loadBooksTags(catalog):
     """
-    TODO
+    TODO: cargar archivo
     """
     pass
